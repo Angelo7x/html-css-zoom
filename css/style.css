@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+header {
+    height: 40px;
+    background-color: blue;
+    display: flex;
+    
+}
+
+footer {
+    height: 80px;
+    background-color: brown;
+}
+
+main {
+    height: calc(100vh - 120px);
+}
