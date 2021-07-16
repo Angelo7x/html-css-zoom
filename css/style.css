@@ -90,4 +90,14 @@ main {
 footer {
     height: 80px;
     background-color: #212325;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-left, .bottom-right {
+    width: 15%;
+}
+
+.bottom-center {
+    width: 70%;
 }
